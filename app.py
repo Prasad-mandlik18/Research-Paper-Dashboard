@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 
 # Load dataset
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("Dataset.csv")
 
 st.title("AI Impact on Digital Media Dashboard")
 
